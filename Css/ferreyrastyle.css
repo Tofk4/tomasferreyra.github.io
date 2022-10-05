@@ -166,6 +166,7 @@ body{
    display: flex;
    margin-right:40px;
    list-style: none;
+   padding: 0 5px;
 }
 a{
    font-family: 'Libre Baskerville', serif;
@@ -215,9 +216,6 @@ a{
    flex-direction: column;
    justify-content: center;
    align-items: center;
-}
-#carita{
-   
 }
 @media (max-width: 768px) {
    body{
