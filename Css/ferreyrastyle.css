@@ -220,7 +220,13 @@ a{
    justify-content: center;
    align-items: center;
 }
-
+.pagina{
+   background-color: #396783ab;
+   padding: 10px 10px;
+}
+.comming{
+   text-align: center;
+}
 @media (max-width: 768px) {
    body{
       padding-top: 70px;
